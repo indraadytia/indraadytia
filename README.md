@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Perkenalkan nama saya **Indra adytia**.\
+
+🌱 Saya seorang mahasiswa semester 6 jurusan **Sistem Infromasi** di Universitas Pamulang.\
+📫 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/indraadytia/) ku ya.
+
