@@ -1,7 +1,7 @@
-## Hi there 👋
+### Hi there 👋
 
 <!--
-**indraadytia/indraadytia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**indraadytia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Perkenalkan nama saya **Indra Adytia**.
+
+⚡ Saya seorang mahasiswa semester 8 jurusan **Sistem Infromasi**.\
+📫 Jika tertarik untuk berkenalan, silakan connect akun [Linkedin](https://www.linkedin.com/in/indraadytia/) yaaa.
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/indraadytia">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=indraadytia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=indraadytia&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
